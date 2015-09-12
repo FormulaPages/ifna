@@ -1,6 +1,6 @@
 {
   "name": "formula-ifna",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks for error.NA and returns defaulted value.",
   "main": "index.js",
   "scripts": {
