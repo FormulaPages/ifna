@@ -1,6 +1,6 @@
 {
   "name": "formula-ifna",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Checks for error.NA and returns defaulted value.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FormulaPages/ifna/issues"
   },
-  "homepage": "https://github.com/FormulaPages/ifna#readme"
+  "homepage": "https://github.com/FormulaPages/ifna#readme",
+  "dependencies": {
+    "formula-errors": "^1.0.0"
+  }
 }
