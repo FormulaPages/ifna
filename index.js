@@ -8,7 +8,7 @@
             exports: {}
         };
         factory(mod.exports, mod, global.error);
-        global.index = mod.exports;
+        global.IFNA = mod.exports;
     }
 })(this, function (exports, module, _formulaErrors) {
     'use strict';
